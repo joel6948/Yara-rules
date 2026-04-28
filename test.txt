@@ -1,0 +1,11 @@
+Your files have been encrypted.
+Send bitcoin to recover your files.
+This is a ransom demand.
+cmd.exe will be used if payment is not received.
+
+This program creates a RemoteThread to inject into processes.
+It includes a keylogger to capture all keystrokes.
+A screenshot function captures the desktop every 30 seconds.
+The backdoor connects to a remote server for commands.
+Reverse shell capability allows remote command execution.
+
